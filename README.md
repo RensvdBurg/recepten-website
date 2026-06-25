@@ -4,6 +4,14 @@
 First, run the development server:
 
 ```bash
+
+npm install
+npm install mysql2
+
+npm install resend  -|
+                     else |
+                          |- npm ls resend
+
 npm run dev
 ```
 
